@@ -1,0 +1,11 @@
+.btn img {
+  height: 0.9rem;
+  display: inline;
+}
+
+.page-header {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: linear-gradient(140deg, #E63119, #2BB3C2);
+  background-color: #1F8894;
+}
